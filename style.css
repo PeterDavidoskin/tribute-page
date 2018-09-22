@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700');
+
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #333;	
+	color: #fff;
+	font-family: Lato, sans-serif;
+}
+
+#main {
+	max-width: 960px;
+	margin: 4rem auto;
+	background-color: #222;
+	border-radius: 10px;
+}
+
+#title {
+	text-align: center;
+	font-size: 2.2rem;
+	padding-top: 2.8rem;
+	margin-bottom: 1rem;
+}
+
+#title-caption {
+	text-align: center;
+	font-size: 1.5rem;
+	margin-bottom: 3rem;
+	color: #aaa;
+}
+
+#img-div {
+	margin: 2rem;
+	background-color: #000;
+	border-radius: 10px;
+	overflow: hidden;
+}
+
+#image {
+	max-width: 90%;
+	display: block;
+	height: auto;
+	margin: 20px auto;
+}
+
+#img-caption {
+	font-size: 1.2rem;
+	text-align: center;
+	margin: 2rem;
+	color: #aaa;
+}
+
+#headline {
+	margin-top: 50px;
+}
+
+ul {
+	max-width: 600px;
+	margin: 20px auto;
+}
+
+#tribute-info li {
+	margin: 20px auto;
+	font-size: 1.1rem;
+	list-style: none;
+}
+
+#quote {
+	text-align: center;
+	font-weight: 700;
+	font-size: 1.5rem;
+	margin: 40px auto;
+}
+
+#read-more {
+	font-size: 1.2rem;
+	text-align: center;
+	padding-bottom: 30px;
+	color: #aaa;
+}
+
+#read-more a {
+	color: #fff;
+	text-decoration: none;
+	font-weight: 700;
+}
+
+#read-more a:hover {
+	color: #aaa;
+}
+
+
+
